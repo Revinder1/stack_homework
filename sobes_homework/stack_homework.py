@@ -46,5 +46,6 @@ def isBalanced():
     return 'Не сбалансированно'
 
 
+
 if __name__ == '__main__':
     print(isBalanced())
